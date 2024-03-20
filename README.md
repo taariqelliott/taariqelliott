@@ -4,7 +4,7 @@ Hey, World! ✌🏾 My name is Taariq Elliott
 Software Engineer - Music Producer - Sound Designer - Community Educator
 ------------------------------------------------------------------------
 
-Building a better world with code & sound!
+Building a better world through code & sound!
 
 * 🌍  I'm based in Washington, D.C.
 * 🖥️  See my portfolio at [taariqelliott.netlify.app/](http://taariqelliott.netlify.app/)
