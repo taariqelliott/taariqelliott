@@ -10,7 +10,7 @@ Building a better world through code & sound!
 * 🖥️  See my portfolio at [taariqelliott.netlify.app/](http://taariqelliott.netlify.app/)
 * ✉️  You can contact me at [codebytaariq@gmail.com](mailto:codebytaariq@gmail.com)
 * 🚀  I'm currently working on [a music theory app.](http://theorything.netlify.app/)
-* 🧠  I'm learning Django.
+* 🧠  I'm learning Django & Svelte.
 * 🤝  I'm open to collaborating on projects, apps, or anything that can help my community.
 
 ### Skills
