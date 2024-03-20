@@ -1,10 +1,10 @@
-Hi 👋 My name is Taariq Elliott
-===============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taariq Elliott
+======================================================================================================================================
 
 Software Engineer - Music Producer - Sound Designer - Community Educator
 ------------------------------------------------------------------------
 
-Building a creative world with code & sound
+Building a better world with code & sound!
 
 * 🌍  I'm based in Washington, D.C.
 * 🖥️  See my portfolio at [taariqelliott.netlify.app/](http://taariqelliott.netlify.app/)
