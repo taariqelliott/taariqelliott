@@ -1,4 +1,4 @@
-Hi 👋🏽 My name is Taariq Elliott
+Hey, World! ✌🏾 My name is Taariq Elliott
 ===============================
 
 Software Engineer - Music Producer - Sound Designer - Community Educator
