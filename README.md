@@ -37,7 +37,7 @@ Building a better world through code, sound & community!
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/></a>
 </p>
 
-### Socials
+### Social
 
 <p align="left">
   <a href="https://www.github.com/taariqelliott" target="_blank" rel="noreferrer">
