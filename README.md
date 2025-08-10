@@ -5,9 +5,9 @@
 Building a better world through code, sound & community!
 
 - 🌍  Based in Washington, D.C.
-- 🖥️  Check out my portfolio at [taariqelliott.netlify.app/](http://taariqelliott.netlify.app/)
-- 🚀  Currently developing [friquency-radio](https://github.com/taariqelliott/friquency-radio.git)—a real-time chat and music streaming platform.
-- 💻  Focused on Next.js, Supabase, Java & Spring.
+- 🖥️  Check out my portfolio at [taariqelliott.com/](http://www.taariqelliott.dev/)
+- 🚀  Currently developing [ugubhu](https://github.com/taariqelliott/ugubhu-v1)—a local first desktop audio player inspired by the classic WinAmp app.
+- 💻  Focused on Svelte, React Three Fiber, p5.js.
 - ✉️  Reach me at [codebytaariq@gmail.com](mailto:codebytaariq@gmail.com)
 - 🤝  Always open to collaborative projects that empower communities.
 
