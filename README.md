@@ -6,7 +6,7 @@ Building a better world through code, sound & community!
 
 - 🌍  Based in Washington, D.C.
 - 🖥️  Check out my portfolio at [taariqelliott.dev](http://www.taariqelliott.dev/)
-- 🚀  Currently developing [ugubhu](https://github.com/taariqelliott/ugubhu-v1)—a local first desktop audio player inspired by the classic WinAmp app.
+- 🚀  Currently developing [ugubhu](https://github.com/taariqelliott/ugubhu-v1) — a local first desktop audio player inspired by the classic WinAmp app.
 - 💻  Focused on Svelte, React Three Fiber, and p5.js.
 - ✉️  Reach me at [codebytaariq@gmail.com](mailto:codebytaariq@gmail.com)
 - 🤝  Always open to collaborative projects that empower communities.
