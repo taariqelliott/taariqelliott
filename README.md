@@ -33,6 +33,7 @@ Building a better world through code, sound & community!
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
   <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" alt="Three.js"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/></a>
+  
 </p>
 
 ### Socials
