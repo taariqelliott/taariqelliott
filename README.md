@@ -55,4 +55,4 @@ Building a better world through code, sound & community!
   </a>
 </p>
 
-[![Taariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taariqelliott&show_icons=true&theme=panda&show=prs_merged&hide_rank=true)](https://github.com/taariqelliott)
+<!-- [![Taariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taariqelliott&show_icons=true&theme=panda&show=prs_merged&hide_rank=true)](https://github.com/taariqelliott) -->
