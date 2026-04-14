@@ -6,8 +6,8 @@ Building a better world through code, sound & community!
 
 - 🌍  Based in Washington, D.C.
 - 🖥️  Check out my portfolio at [taariqelliott.dev](http://www.taariqelliott.dev/)
-- 🚀  Currently developing [electron-r3f-template](https://github.com/taariqelliott/electron-r3f-template) - An Electron app that let's you experiment with different Three.js environments.
-- 💻  Focused on Svelte, React Three Fiber, Electron, JUCE, and p5.js.
+- 🚀  Currently developing [react-electron-audio-player](https://github.com/taariqelliott/react-electron-audio-player) - A local-first desktop audio player for everyone who loves music, built with Electron, React, and TypeScript.
+- 💻  Focused on Electron, React Three Fiber, TypeScript, Web Audio API, and AI/LLM integration.
 - ✉️  Reach me at [codebytaariq@gmail.com](mailto:codebytaariq@gmail.com)
 - 🤝  Always open to collaborative projects that empower communities.
 
@@ -33,6 +33,12 @@ Building a better world through code, sound & community!
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
   <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" alt="Three.js"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/></a>
+  
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff" alt="Claude"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS"/></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/SvelteKit-%23ff3e00.svg?logo=svelte&logoColor=white" alt="SvelteKit"/></a>
   
 </p>
 
