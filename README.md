@@ -6,7 +6,7 @@ Building a better world through code, sound & community!
 
 - 🌍  Based in Washington, D.C.
 - 🖥️  Check out my portfolio at [taariqelliott.dev](http://www.taariqelliott.dev/)
-- 🚀  Currently developing [react-electron-audio-player](https://github.com/taariqelliott/react-electron-audio-player) - A local-first desktop audio player for everyone who loves music, built with Electron, React, and TypeScript.
+- 🚀  Currently developing [Quorum](https://github.com/taariqelliott/quorum-edu) - An education based app that allows teachers to use AI to create on demand quizzes for any topic. Built Next.js, TypeScript, Convex & Bun.
 - 💻  Focused on Electron, React Three Fiber, TypeScript, Web Audio API, and AI/LLM integration.
 - ✉️  Reach me at [codebytaariq@gmail.com](mailto:codebytaariq@gmail.com)
 - 🤝  Always open to collaborative projects that empower communities.
